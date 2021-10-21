@@ -1,0 +1,12 @@
+---
+title: "Counter-Strike - Global Offensive (CS:GO)"
+date: 2021-10-21T22:27:09+02:00
+draft: false
+---
+
+Hostname: myserver.nl
+Port: 1234
+
+How to connect: just do it.
+
+
