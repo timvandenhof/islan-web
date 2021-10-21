@@ -44,3 +44,4 @@ summaryLength = 70
   #featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 3
   mainSections = ["posts"]
+  custom_css = ["custom.css"]
